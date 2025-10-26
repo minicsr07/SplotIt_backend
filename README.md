@@ -125,8 +125,8 @@ spotit-citizen-tracker/
 4. Add environment variables
 5. Deploy
 
-### Railway
-1. Go to railway.app
+### Render
+1. Go to render.app
 2. Create new project
 3. Connect GitHub
 4. Add environment variables
