@@ -132,6 +132,13 @@ spotit-citizen-tracker/
 4. Add environment variables
 5. Deploy
 
+### Railway
+1. Go to railway.app
+2. Create new project
+3. Connect Github
+4. Add environment variables
+5. Deploy
+
 ### Heroku
 \`\`\`bash
 heroku create your-app-name
